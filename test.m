@@ -1,7 +1,7 @@
 clear
 %image1=loadimage;
 %in tike teste khodame bara khondan
-partA=110;
+partA=109;
 
  Underline='_';
 partB=0;

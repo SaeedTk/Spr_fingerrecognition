@@ -34,3 +34,4 @@ end
 end
 avg=avg/Num_Ins;
 msgbox(num2str(avg));
+
